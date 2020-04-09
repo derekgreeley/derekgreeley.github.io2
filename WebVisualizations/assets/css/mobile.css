@@ -1,0 +1,55 @@
+body{
+	background-color: #EDEDED;
+}
+h2, h3{
+	color:#06ADA6;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	font-family: 'Times New Roman', Times, serif;
+}
+.logo{
+	font-family: 'Times New Roman', Times, serif;
+	background-color:#06ADA6;
+	padding:4px 20px;
+	font-size: 25px;
+
+}
+#navbar{
+	background-color: #06ADA6;
+}
+.navbar-light .navbar-toggler{
+	border-color: #FFFFFF;
+}
+.navbar-collapse{
+	background-color: #FFFFFF;
+}
+.main{
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.main #col_1{ 
+	border: 10px solid #EDEDED;
+}
+.main #col_2{ 
+	border: 10px solid #EDEDED;
+	padding-bottom: 40px;
+}
+#plot_comparison img{
+	width: 400px;
+}
+.aside img{
+	width:24%;
+}
+
+#footer{
+	position: relative;
+	
+	border-top: 5px solid #06ADA6;
+	font-size: 12px;
+	text-align: center;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+}
